@@ -1,0 +1,7 @@
+/home/jiataihan/projects/jacobi/build/CMakeFiles/install/strip.dir
+/home/jiataihan/projects/jacobi/build/CMakeFiles/edit_cache.dir
+/home/jiataihan/projects/jacobi/build/CMakeFiles/rebuild_cache.dir
+/home/jiataihan/projects/jacobi/build/CMakeFiles/jacobi.dir
+/home/jiataihan/projects/jacobi/build/CMakeFiles/list_install_components.dir
+/home/jiataihan/projects/jacobi/build/CMakeFiles/install/local.dir
+/home/jiataihan/projects/jacobi/build/CMakeFiles/install.dir
